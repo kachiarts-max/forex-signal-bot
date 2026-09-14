@@ -19,3 +19,6 @@ Multi-timeframe confluence strategy bot that analyses Forex, Commodities and Cry
 
 1. Open this repository in Codespaces
 2. Create a file named `.env` with:
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
