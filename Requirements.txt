@@ -1,0 +1,12 @@
+python-telegram-bot[job-queue]==21.6
+yfinance==0.2.40
+pandas==2.2.2
+pandas-ta==0.3.14b0
+requests==2.32.3
+python-dotenv==1.0.1
+APScheduler==3.10.4
+aiohttp==3.10.5
+numpy==1.26.4
+matplotlib==3.9.2
+mplfinance==0.12.10b0
+Pillow==10.4.0
